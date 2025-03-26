@@ -1,0 +1,38 @@
+Sender:
+- Name: "John Doe"
+- Account: 12345678
+- Bank: XYZ Bank
+
+Receiver:
+- Name: "Jane Smith"
+- Account: 87654321
+- Bank: ABC Bank
+
+Amount: $5000
+Date: 2024-03-25
+---
+Sender:
+- Name: "Alice Johnson"
+- Account: 11223344
+- Bank: DEF Bank
+
+Receiver:
+- Name: "Bob Williams"
+- Account: 44332211
+- Bank: GHI Bank
+
+Amount: $12000
+Date: 2024-03-20
+---
+Sender:
+- Name: "Charlie Brown"
+- Account: 99887766
+- Bank: JKL Bank
+
+Receiver:
+- Name: "Eve Adams"
+- Account: 66778899
+- Bank: MNO Bank
+
+Amount: $3000
+Date: 2024-03-15

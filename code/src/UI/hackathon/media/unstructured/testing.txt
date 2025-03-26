@@ -1,0 +1,21 @@
+John Doe transferred $5000 to XYZ Corp for investment purposes. 
+No clear indication of the transaction category.
+
+Alice paid Bob $2000 last night. Purpose: unknown.
+
+Received $10000 from an offshore account. No sender details available.
+
+Mr. A and Mrs. B were involved in a financial deal worth $1 million.
+No further details were provided.
+---
+A huge amount was sent to an unidentified organization overseas.
+Sources claim it was a business expense.
+
+Money was transferred to ABC Ltd from an unknown account.
+Transaction flagged by internal audit.
+
+Large sum credited to an individual's account.
+Lack of transaction purpose detected.
+---
+Suspicious transaction detected involving a shell company.
+No recipient details, but the transaction was processed successfully.

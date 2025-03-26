@@ -1,0 +1,38 @@
+Sender:
+- Name: "Hezbollah"
+- Account: 12345678
+- Bank: XYZ Bank
+
+Receiver:
+- Name: "Pepsi"
+- Account: 87654321
+- Bank: ABC Bank
+
+Amount: $5000
+Date: 2024-03-25
+---
+Sender:
+- Name: "Alibaba"
+- Account: 11223344
+- Bank: DEF Bank
+
+Receiver:
+- Name: "Huawei"
+- Account: 44332211
+- Bank: GHI Bank
+
+Amount: $12000
+Date: 2024-03-20
+---
+Sender:
+- Name: "Putin"
+- Account: 99887766
+- Bank: JKL Bank
+
+Receiver:
+- Name: "Tesla"
+- Account: 66778899
+- Bank: MNO Bank
+
+Amount: $3000
+Date: 2024-03-15
